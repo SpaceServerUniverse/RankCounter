@@ -1,0 +1,4 @@
+name: RankCounter
+version: '${version}'
+main: space.yurisi.rankcounter.RankCounter
+api-version: '1.20'
